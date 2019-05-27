@@ -1,81 +1,81 @@
-Play game - LARA CROFT AND THE GUARDIAN OF LIGHT
-Play game - GRID 2
-Play game - ABZU
-Play game - BINARY DOMAIN
-Play game - DRIZZLEPATH
-Play game - FLOATING POINT
-Play game - KENTUCKY ROUTE ZERO
-Play game - NEED FOR SPEED HOT PURSUIT
-Play game - ORCS MUST DIE 2
-Play game - PATH OF EXILE
-Play game - SANCTUM2
-Play game - SHIP SIMULATOR EXTREMES
-Play game - SIX SIDES O FTHE WORLD
-Play game - SPLITSECOND
-Play game - STAR TREK ONLINE
-Play game - TERA
-Play game - TORCHLIGHT II
-Play game - TRANSFORMERS FALL OF CYBERTRON
-Play game - TRANSFORMERS WAR FOR CYBERTRON
-Play game - WINNING PUTT
-Play game - ASTEBREED
-Play game - GRID AUTOSPORT
-Play game - VALLEY
-Play game - THE WITCHER 3
-Play game - DIG DUG
-Play game - GALAGA
-Play game - ASHES OF THE SINGULARITY ESCALATION
-Play game - REFUNCT
-Play game - RAYMAN LEGENDS
-Play game - GEOMETRY WARS 3 - DIMENSIONS
-Play game - DEFENSE GRID 2
-Play game - DIRT 4
-Play game - F1 2017
-Play game - TRON 2.0
-Play game - RISINGWORLD
-Play game - PLANETARY ANNIHILATION TITANS
-Play game - DOWNFALL
-Play game - HALF-LIFE 2
-Play game - BLACK MESA
-Play game - RAPTURE
-Play game - AMERICAN TRUCK SIMULATOR
-Play game - BZ2R
-Play game - BASTION
-Play game - THE SIMS 3
-Play game - TRANSISTOR
-Play game - LIFELESS PLANET
-Play game - THE UNCERTAIN
-Play game - THE LONG DARK
-Play game - EURO TRUCK SIMULATOR 2
-Play game - THE SOLUS PROJECT
-Play game - TRACKMANIA UNITED
-Play game - ORCS MUST DIE UNCHAINED
-Play game - WAR IN THE NORTH
-Play game - MIRRORS EDGE
-Play game - THE BEGINNERS GUIDE
-Play game - MIND_PATH_TO_THALAMUS
-Play game - ROCKETLEAGUE
-Play game - RAILWORKS
-Play game - FTL FASTER THAN LIGHT
-Play game - XCOM 2
-Play game - EVERSPACE
-Play game - SINS OF A SOLAR EMPIRE REBELLION
-Play game - REDUX
-Play game - BATMAN ARKHAM KNIGHT
-Play game - LEGO BATMAN
-Play game - LEGO BATMAN 2
-Play game - BEYOND GOTHAM
-Play game - WORMS RELOADED
-Play game - STELLARIS
-Play game - ROBOCRAFT
-Play game - HOMEWORLD
-Play game - CITIES SKYLINES
-Play game - MECHWARRIOR ONLINE
-Play game - SWARMLAKE
-Play game - NO MAN'S SKY
-Play game - EXPRESSI WATERCOLOR
-Watch a show - Smithsonial Channel
-Watch a show - Curiosity Stream
+Play Game - LARA CROFT AND THE GUARDIAN OF LIGHT
+Play Game - GRID 2
+Play Game - ABZU
+Play Game - BINARY DOMAIN
+Play Game - DRIZZLEPATH
+Play Game - FLOATING POINT
+Play Game - KENTUCKY ROUTE ZERO
+Play Game - NEED FOR SPEED HOT PURSUIT
+Play Game - ORCS MUST DIE 2
+Play Game - PATH OF EXILE
+Play Game - SANCTUM2
+Play Game - SHIP SIMULATOR EXTREMES
+Play Game - SIX SIDES O FTHE WORLD
+Play Game - SPLITSECOND
+Play Game - STAR TREK ONLINE
+Play Game - TERA
+Play Game - TORCHLIGHT II
+Play Game - TRANSFORMERS FALL OF CYBERTRON
+Play Game - TRANSFORMERS WAR FOR CYBERTRON
+Play Game - WINNING PUTT
+Play Game - ASTEBREED
+Play Game - GRID AUTOSPORT
+Play Game - VALLEY
+Play Game - THE WITCHER 3
+Play Game - DIG DUG
+Play Game - GALAGA
+Play Game - ASHES OF THE SINGULARITY ESCALATION
+Play Game - REFUNCT
+Play Game - RAYMAN LEGENDS
+Play Game - GEOMETRY WARS 3 - DIMENSIONS
+Play Game - DEFENSE GRID 2
+Play Game - DIRT 4
+Play Game - F1 2017
+Play Game - TRON 2.0
+Play Game - RISINGWORLD
+Play Game - PLANETARY ANNIHILATION TITANS
+Play Game - DOWNFALL
+Play Game - HALF-LIFE 2
+Play Game - BLACK MESA
+Play Game - RAPTURE
+Play Game - AMERICAN TRUCK SIMULATOR
+Play Game - BZ2R
+Play Game - BASTION
+Play Game - THE SIMS 3
+Play Game - TRANSISTOR
+Play Game - LIFELESS PLANET
+Play Game - THE UNCERTAIN
+Play Game - THE LONG DARK
+Play Game - EURO TRUCK SIMULATOR 2
+Play Game - THE SOLUS PROJECT
+Play Game - TRACKMANIA UNITED
+Play Game - ORCS MUST DIE UNCHAINED
+Play Game - WAR IN THE NORTH
+Play Game - MIRRORS EDGE
+Play Game - THE BEGINNERS GUIDE
+Play Game - MIND_PATH_TO_THALAMUS
+Play Game - ROCKETLEAGUE
+Play Game - RAILWORKS
+Play Game - FTL FASTER THAN LIGHT
+Play Game - XCOM 2
+Play Game - EVERSPACE
+Play Game - SINS OF A SOLAR EMPIRE REBELLION
+Play Game - REDUX
+Play Game - BATMAN ARKHAM KNIGHT
+Play Game - LEGO BATMAN
+Play Game - LEGO BATMAN 2
+Play Game - BEYOND GOTHAM
+Play Game - WORMS RELOADED
+Play Game - STELLARIS
+Play Game - ROBOCRAFT
+Play Game - HOMEWORLD
+Play Game - CITIES SKYLINES
+Play Game - MECHWARRIOR ONLINE
+Play Game - SWARMLAKE
+Play Game - NO MAN'S SKY
+Play Game - EXPRESSI WATERCOLOR
+Watch a Show - Smithsonial Channel
+Watch a Show - Curiosity Stream
 Listen to Music
 Read Road & Track
 Read Joyce Meyer
@@ -85,4 +85,11 @@ Read Sunset
 Listen to Music
 Time with Tina
 Journal
-Read scripture
+Read Scripture
+Pray
+Read Pocket Articles
+Read Popular Science
+Read Road & Track
+Work on /dev/color
+Write /reddit/NoFapChristians
+Write a Friend
