@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "console": "^0.7.2",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "lodash": "^4.17.11",
     "ololog": "^1.1.128",
     "react": "16.5.0",
